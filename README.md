@@ -17,7 +17,7 @@ Aquí iremos subiendo Diego Álvares y yo nuestra evidencia de Computación en J
  
 3) Créditos:
      -Profesora Hassany, la mejor <3
-     -Devs: Diego Álvares & Mafer Villegas
+     -Devs: Diego Álvares, Mafer Villegas & André Sánchez
      
 4) Licencia:
      -General Public Licenses
