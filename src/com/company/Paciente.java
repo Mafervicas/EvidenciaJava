@@ -1,5 +1,5 @@
 package com.company;
 
-public class Paciente {
+public class Paciente extends Persona{
     
 }
