@@ -1,5 +1,6 @@
 package com.company;
 
+<<<<<<< HEAD
 public class Doctor {
 
     String especialidad;
@@ -19,4 +20,7 @@ public class Doctor {
         
     }
 
+=======
+public class Doctor extends Persona {
+>>>>>>> 1077174328c67beb2b3861e146683438c4609d87
 }
